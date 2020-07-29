@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/kinobase/static/css/main.9f0ea2c6.chunk.css",
+    "main.js": "/kinobase/static/js/main.adbd3836.chunk.js",
+    "main.js.map": "/kinobase/static/js/main.adbd3836.chunk.js.map",
+    "runtime-main.js": "/kinobase/static/js/runtime-main.a236f2ff.js",
+    "runtime-main.js.map": "/kinobase/static/js/runtime-main.a236f2ff.js.map",
+    "static/css/2.adec7a29.chunk.css": "/kinobase/static/css/2.adec7a29.chunk.css",
+    "static/js/2.2af6bff2.chunk.js": "/kinobase/static/js/2.2af6bff2.chunk.js",
+    "static/js/2.2af6bff2.chunk.js.map": "/kinobase/static/js/2.2af6bff2.chunk.js.map",
+    "index.html": "/kinobase/index.html",
+    "precache-manifest.4827aabd60aed7f510d5c8ad724a4695.js": "/kinobase/precache-manifest.4827aabd60aed7f510d5c8ad724a4695.js",
+    "service-worker.js": "/kinobase/service-worker.js",
+    "static/css/2.adec7a29.chunk.css.map": "/kinobase/static/css/2.adec7a29.chunk.css.map",
+    "static/css/main.9f0ea2c6.chunk.css.map": "/kinobase/static/css/main.9f0ea2c6.chunk.css.map",
+    "static/js/2.2af6bff2.chunk.js.LICENSE.txt": "/kinobase/static/js/2.2af6bff2.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/kinobase/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/all.min.css": "/kinobase/static/media/fa-solid-900.ee09ad75.woff",
+    "static/media/styles.css": "/kinobase/static/media/revicons.2feb69cc.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a236f2ff.js",
+    "static/css/2.adec7a29.chunk.css",
+    "static/js/2.2af6bff2.chunk.js",
+    "static/css/main.9f0ea2c6.chunk.css",
+    "static/js/main.adbd3836.chunk.js"
+  ]
+}
